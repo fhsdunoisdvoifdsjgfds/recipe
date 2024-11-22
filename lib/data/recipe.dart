@@ -351,7 +351,7 @@ class RecipeData {
       duration: '1h',
       difficulty: 'Simple',
       description:
-          'Lorem ipsum dolor sit amet consectetur. Feugiat neque dictum ut ullamcorper mus congue tortor.',
+          'A heavenly combination of tender apple slices and rich caramel sauce, wrapped in a perfectly flaky crust. Each bite brings together the natural sweetness of seasonal apples with a buttery caramel drizzle, creating an irresistible dessert that\'s both classic and indulgent. The golden-brown crust holds layers of cinnamon-spiced apples, making this pie a cozy treat for any occasion',
       ingredients: [
         '2 ½ cups flour, 1 tbsp sugar, 1 tsp salt',
         '1 cup cold butter, cubed',
